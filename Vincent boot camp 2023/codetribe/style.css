@@ -1,0 +1,11 @@
+p{
+    background-color: blueviolet;
+    color:azure;
+    margin: 16px;
+    
+}
+ul {     
+
+/* list-style-type: armenian;*/
+   list-style: square inside url('./assets/icons/user.png');
+}
